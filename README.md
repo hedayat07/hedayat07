@@ -17,8 +17,8 @@
 🌐 Web Development  with experience in UI/UX design.
 💻 Software Trainee specializing in interactive applications.
 - 🌟 My Tech Stack:
-- Frontend: HTML, CSS, JavaScript, React,
-- Backend: Node.js, Express, MongoDB, MySQL,Python
+- Frontend: HTML, CSS, JavaScript, React,ejs.
+- Backend: Node.js, Express, MongoDB, MySQL,Python.
 - Tools: Git, VS Code, Postman API.
 ## Featured Projects
 Here are some of the projects I've worked on:
